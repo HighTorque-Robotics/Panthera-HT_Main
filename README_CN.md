@@ -15,39 +15,39 @@ Panthera-HT是一款开源六轴机械臂，使用的电机都是高擎机电的
 ## 📷 产品特写
 
 <div align="center">
-  <img src="./images/1.jpg" width="30%" />
-  <img src="./images/2.jpg" width="30%" />
-  <img src="./images/3.jpg" width="30%" />
+  <img src="./images/1.jpg" width="32%" />
+  <img src="./images/2.jpg" width="32%" />
+  <img src="./images/3.jpg" width="32%" />
   <br/>
-  <img src="./images/4.jpg" width="30%" />
-  <img src="./images/5.jpg" width="30%" />
-  <img src="./images/6.jpg" width="30%" />
+  <img src="./images/4.jpg" width="32%" />
+  <img src="./images/5.jpg" width="32%" />
+  <img src="./images/6.jpg" width="32%" />
 </div>
 
 ## ⚙️ 控制示例
 
 ### 位置速度控制：
 <div align="center">
-  <img src="./video/gif/pos&vel.gif" width="80%"/>
+  <img src="./video/gif/pos&vel.gif" width="88%"/>
 </div>
 
 ### 主从遥操：
 <div align="center">
-  <img src="./video/gif/Teleoperation.gif" width="80%"/>
+  <img src="./video/gif/Teleoperation.gif" width="88%"/>
 </div>
 
 ### 主从遥操抓取：
 <div align="center">
-  <img src="./video/gif/Teleoperated_Grasping.gif" width="80%"/>
+  <img src="./video/gif/Teleoperated_Grasping.gif" width="88%"/>
 </div>
 
 ## 🗃️ 仓库
 
-| 仓库                                                                                       | 许可证         | 描述                                            |
-| ------------------------------------------------------------------------------------------ | -------------- | ----------------------------------------------- |
-| **[Panthera-HT]([https:](https://github.com/HighTorque-Robotics/Panthera-HT_Main))**       | [MIT](LICENSE) | 主项目仓库，包含项目介绍、仓库链接和功能请求。  |
-| **[Panthera-HT_SDK]([https:](https://github.com/HighTorque-Robotics/Panthera-HT_SDK))**    | [MIT](LICENSE) | SDK开发包，提供快速上手的示例代码与开发工具链。 |
-| **[Panthera-HT_Model]([https:](https://github.com/HighTorque-Robotics/Panthera-HT_Main))** | [MIT](LICENSE) | SolidWorks原始设计文件和物料清单（BOM）。       |
+| 仓库                                                                             | 许可证         | 描述                                            |
+| -------------------------------------------------------------------------------- | -------------- | ----------------------------------------------- |
+| **[Panthera-HT](https://github.com/HighTorque-Robotics/Panthera-HT_Main)**       | [MIT](LICENSE) | 主项目仓库，包含项目介绍、仓库链接和功能请求。  |
+| **[Panthera-HT_SDK](https://github.com/HighTorque-Robotics/Panthera-HT_SDK)**    | [MIT](LICENSE) | SDK开发包，提供快速上手的示例代码与开发工具链。 |
+| **[Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Main)** | [MIT](LICENSE) | SolidWorks原始设计文件和物料清单（BOM）。       |
 
 ## 🔗 相关文档与链接
 

@@ -15,39 +15,39 @@ The current control method for the robotic arm is a pure Python script, with som
 ## 📷 Product close-up
 
 <div align="center">
-  <img src="./images/1.jpg" width="30%" />
-  <img src="./images/2.jpg" width="30%" />
-  <img src="./images/3.jpg" width="30%" />
+  <img src="./images/1.jpg" width="32%" />
+  <img src="./images/2.jpg" width="32%" />
+  <img src="./images/3.jpg" width="32%" />
   <br/>
-  <img src="./images/4.jpg" width="30%" />
-  <img src="./images/5.jpg" width="30%" />
-  <img src="./images/6.jpg" width="30%" />
+  <img src="./images/4.jpg" width="32%" />
+  <img src="./images/5.jpg" width="32%" />
+  <img src="./images/6.jpg" width="32%" />
 </div>
 
 ## ⚙️ Control example
 
 ### Position and Speed Control:
 <div align="center">
-  <img src="./video/gif/pos&vel.gif" width="80%"/>
+  <img src="./video/gif/pos&vel.gif" width="88%"/>
 </div>
 
 ### Master-Slave Teleoperation:
 <div align="center">
-  <img src="./video/gif/Teleoperation.gif" width="80%"/>
+  <img src="./video/gif/Teleoperation.gif" width="88%"/>
 </div>
 
 ### Master–Slave Teleoperated Grasping:
 <div align="center">
-  <img src="./video/gif/Teleoperated_Grasping.gif" width="80%"/>
+  <img src="./video/gif/Teleoperated_Grasping.gif" width="88%"/>
 </div>
 
 ## 🗃️ Repository
 
-| Repository                                                                                 | License        | Description                                                                                     |
-| ------------------------------------------------------------------------------------------ | -------------- | ----------------------------------------------------------------------------------------------- |
-| **[Panthera-HT_Main]([https:](https://github.com/HighTorque-Robotics/Panthera-HT_Main))**  | [MIT](LICENSE) | Main project repository, including project introduction, repository link, and feature requests. |
-| **[Panthera-HT_SDK]([https:](https://github.com/HighTorque-Robotics/Panthera-HT_SDK))**    | [MIT](LICENSE) | SDK development package, providing quick-start example code and a development toolchain.        |
-| **[Panthera-HT_Model]([https:](https://github.com/HighTorque-Robotics/Panthera-HT_Main))** | [MIT](LICENSE) | SolidWorks original design files and Bill of Materials (BOM).                                   |
+| Repository                                                                       | License        | Description                                                                                     |
+| -------------------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------- |
+| **[Panthera-HT_Main](https://github.com/HighTorque-Robotics/Panthera-HT_Main)**  | [MIT](LICENSE) | Main project repository, including project introduction, repository link, and feature requests. |
+| **[Panthera-HT_SDK](https://github.com/HighTorque-Robotics/Panthera-HT_SDK)**    | [MIT](LICENSE) | SDK development package, providing quick-start example code and a development toolchain.        |
+| **[Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Main)** | [MIT](LICENSE) | SolidWorks original design files and Bill of Materials (BOM).                                   |
 
 ## 🔗 Related documents and links
 [Parameters](./images/parameters.jpg)
