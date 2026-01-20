@@ -47,6 +47,7 @@ Panthera-HT是一款开源六轴机械臂，使用的电机都是高擎机电的
 | -------------------------------------------------------------------------------- | -------------- | ----------------------------------------------- |
 | **[Panthera-HT](https://github.com/HighTorque-Robotics/Panthera-HT_Main)**       | [MIT](LICENSE) | 主项目仓库，包含项目介绍、仓库链接和功能请求。  |
 | **[Panthera-HT_SDK](https://github.com/HighTorque-Robotics/Panthera-HT_SDK)**    | [MIT](LICENSE) | SDK开发包，提供快速上手的示例代码与开发工具链。 |
+| **[Panthera-HT_ROS2](https://github.com/HighTorque-Robotics/Panthera-HT-ROS2)**  | [MIT](LICENSE) | ROS2 开发包，提供机械臂的驱动、控制与仿真支持。 |
 | **[Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Main)** | [MIT](LICENSE) | SolidWorks原始设计文件和物料清单（BOM）。       |
 
 ## 🔗 相关文档与链接
