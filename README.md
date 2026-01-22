@@ -43,12 +43,12 @@ The current control method for the robotic arm is a pure Python script, with som
 
 ## 🗃️ Repository
 
-| Repository                                                                       | License        | Description                                                                                     |
-| -------------------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------- |
-| **[Panthera-HT_Main](https://github.com/HighTorque-Robotics/Panthera-HT_Main)**  | [MIT](LICENSE) | Main project repository, including project introduction, repository link, and feature requests. |
-| **[Panthera-HT_SDK](https://github.com/HighTorque-Robotics/Panthera-HT_SDK)**    | [MIT](LICENSE) | Python SDK development package, providing quick-start example code and a development toolchain. |
-| **[Panthera-HT_ROS2](https://github.com/HighTorque-Robotics/Panthera-HT-ROS2)**  | [MIT](LICENSE) | ROS2 development package providing robotic arm drivers, control, and simulation support.        |
-| **[Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Main)** | [MIT](LICENSE) | SolidWorks original design files and Bill of Materials (BOM).                                   |
+| Repository                                                                                                    | License        | Description                                                                                     |
+| ------------------------------------------------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------- |
+| **[Panthera-HT_Main](https://github.com/HighTorque-Robotics/Panthera-HT_Main)**                               | [MIT](LICENSE) | Main project repository, including project introduction, repository link, and feature requests. |
+| **[Panthera-HT_SDK](https://github.com/HighTorque-Robotics/Panthera-HT_SDK/tree/main/2_Panthera-HT_SDK)**     | [MIT](LICENSE) | Python SDK development package, providing quick-start example code and a development toolchain. |
+| **[Panthera-HT_ROS2](https://github.com/HighTorque-Robotics/Panthera-HT-ROS2)**                               | [MIT](LICENSE) | ROS2 development package providing robotic arm drivers, control, and simulation support.        |
+| **[Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_SDK/tree/main/1_Panthera-HT_Model)** | [MIT](LICENSE) | SolidWorks original design files and Bill of Materials (BOM).                                   |
 
 ## 🔗 Related documents and links
 [Parameters](./images/parameters.jpg)
