@@ -2,7 +2,7 @@
 
 # Panthera-HT 🐆
 
-[![中文](https://img.shields.io/badge/lang-简体中文-red.svg)](#中文)[![en](https://img.shields.io/badge/lang-English-blue.svg)](#english)
+[![en](https://img.shields.io/badge/lang-English-blue.svg)](#english)[![中文](https://img.shields.io/badge/lang-简体中文-red.svg)](#中文)
 
 面向学生和创客的开源六轴机械臂学习平台
 
@@ -144,6 +144,22 @@ cd Panthera-HT_SDK
 
 **相关项目**：
 - 夹爪设计参考：[UMI (Universal Manipulation Interface)](https://github.com/real-stanford/universal_manipulation_interface)
+
+## 🚀 未来规划
+
+我们将朝着两个方向持续发展：
+
+### 高级传统控制
+- 视觉伺服控制
+- 使用 GraspNet 进行抓取
+- 点云避障
+- 更多传统控制算法
+
+### 具身智能方向
+- Pi0、Pi0.5 等前沿算法集成
+- RoboTWin2.0 适配
+- 端到端学习
+- 多模态感知与控制
 
 ## 👥 贡献者
 
@@ -317,6 +333,21 @@ Welcome to submit Issues and Pull Requests!
 **Related Projects**:
 - Gripper Design Reference: [UMI (Universal Manipulation Interface)](https://github.com/real-stanford/universal_manipulation_interface)
 
+## 🚀 Future Roadmap
+
+We will continue to develop in two directions:
+
+### Advanced Traditional Control
+- Visual servoing control
+- Grasping using GraspNet
+- Point cloud obstacle avoidance
+- More traditional control algorithms
+
+### Embodied Intelligence
+- Integration of cutting-edge algorithms like Pi0, Pi0.5
+- RoboTWin2.0 adaptation
+- End-to-end learning
+- Multimodal perception and control
 
 ## ⚠️ Disclaimer
 
