@@ -351,5 +351,5 @@ We will continue to develop in two directions:
 
 ## ⚠️ Disclaimer
 
-> [!Noth]
+> [!NOTE]
 > If you build or develop Panthera-HT based on this repository, you will be fully responsible for all physical and mental damages caused to you or others.
