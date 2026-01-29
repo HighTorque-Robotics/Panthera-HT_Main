@@ -166,6 +166,9 @@ cd Panthera-HT_SDK
 <a href="https://github.com/wEch1ng">
   <img src="https://github.com/wEch1ng.png" width="60px;" style="border-radius: 50%;" alt=""/>
 </a>
+<a href="https://github.com/chizhayuehaiyvyvmao">
+  <img src="https://github.com/chizhayuehaiyvyvmao.png" width="60px;" style="border-radius: 50%;" alt=""/>
+</a>
 <a href="https://github.com/tankail">
   <img src="https://github.com/tankail.png" width="60px;" style="border-radius: 50%;" alt=""/>
 </a>
@@ -314,6 +317,9 @@ Welcome to submit Issues and Pull Requests!
 
 <a href="https://github.com/wEch1ng">
   <img src="https://github.com/wEch1ng.png" width="60px;" style="border-radius: 50%;" alt=""/>
+</a>
+<a href="https://github.com/chizhayuehaiyvyvmao">
+  <img src="https://github.com/chizhayuehaiyvyvmao.png" width="60px;" style="border-radius: 50%;" alt=""/>
 </a>
 <a href="https://github.com/tankail">
   <img src="https://github.com/tankail.png" width="60px;" style="border-radius: 50%;" alt=""/>
