@@ -179,6 +179,15 @@ cd Panthera-HT_SDK
   <img src="https://github.com/tankail.png" width="60px;" style="border-radius: 50%;" alt=""/>
 </a>
 
+## ⭐ Star History
+<a href="https://www.star-history.com/?repos=HighTorque-Robotics%2FPanthera-HT_Main&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=HighTorque-Robotics/Panthera-HT_Main&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=HighTorque-Robotics/Panthera-HT_Main&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=HighTorque-Robotics/Panthera-HT_Main&type=date&legend=top-left" />
+ </picture>
+</a>
+
 ## ⚠️ 免责声明
 
 > [!NOTE]
@@ -360,6 +369,17 @@ We will continue to develop in two directions:
 - RoboTWin2.0 adaptation
 - End-to-end learning
 - Multimodal perception and control
+
+
+## ⭐ Star History
+<a href="https://www.star-history.com/?repos=HighTorque-Robotics%2FPanthera-HT_Main&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=HighTorque-Robotics/Panthera-HT_Main&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=HighTorque-Robotics/Panthera-HT_Main&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=HighTorque-Robotics/Panthera-HT_Main&type=date&legend=top-left" />
+ </picture>
+</a>
+
 
 ## ⚠️ Disclaimer
 
