@@ -141,9 +141,14 @@ cd Panthera-HT_SDK
 
 **技术参数**：[机械臂各项参数](./images/parameters.jpg)
 
-**视频演示**：
+**演示视频**：
 - 主从遥操打乒乓球：https://www.bilibili.com/video/BV1KprhBPE26/
 - 移植LeRobot数据集进行模仿学习：https://www.bilibili.com/video/BV1GLi1BqETz/
+- GraspNet抓取位姿估计：https://www.bilibili.com/video/BV13KcDzLE3F/
+- 视觉跟踪色块：https://www.bilibili.com/video/BV1JQPfz4EPN
+
+**教程视频**：
+- SDK配置与上手：https://www.bilibili.com/video/BV1SxwYzhEai/
 
 **交流群**：
 - QQ群：Panthera-HT交流群（1035440629）
@@ -347,6 +352,8 @@ Welcome to submit Issues and Pull Requests!
 **Video Demonstrations**:
 - Master-slave teleoperation playing table tennis: https://www.bilibili.com/video/BV1KprhBPE26/
 - Porting LeRobot dataset for imitation learning: https://www.bilibili.com/video/BV1GLi1BqETz/
+- GraspNet grasp pose estimation: https://www.bilibili.com/video/BV13KcDzLE3F/
+- Visual tracking color blocks: https://www.bilibili.com/video/BV1JQPfz4EPN
 
 **Community**:
 - QQ Group: Panthera-HT Community (1035440629)
