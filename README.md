@@ -50,13 +50,14 @@ Panthera-HT是一款开源六轴机械臂，使用高擎机电的行星关节模
 ## 📷 项目图片
 
 <div align="center">
-  <img src="./images/1.jpg" width="32%" />
-  <img src="./images/2.jpg" width="32%" />
-  <img src="./images/3.jpg" width="32%" />
+  <img src="./images/1.jpg" width="47%" />
+  <img src="./images/2.jpg" width="47%" />
   <br/>
-  <img src="./images/4.jpg" width="32%" />
-  <img src="./images/5.jpg" width="32%" />
-  <img src="./images/6.jpg" width="32%" />
+  <img src="./images/3.jpg" width="47%" />
+  <img src="./images/4.jpg" width="47%" />
+  <br/>
+  <img src="./images/5.jpg" width="47%" />
+  <img src="./images/6.jpg" width="47%" />
 </div>
 
 ## ⚙️ 控制示例
@@ -252,13 +253,14 @@ The core goal of the project is to help students and makers:
 ## 📷 Project Images
 
 <div align="center">
-  <img src="./images/1.jpg" width="32%" />
-  <img src="./images/2.jpg" width="32%" />
-  <img src="./images/3.jpg" width="32%" />
+  <img src="./images/1.jpg" width="47%" />
+  <img src="./images/2.jpg" width="47%" />
   <br/>
-  <img src="./images/4.jpg" width="32%" />
-  <img src="./images/5.jpg" width="32%" />
-  <img src="./images/6.jpg" width="32%" />
+  <img src="./images/3.jpg" width="47%" />
+  <img src="./images/4.jpg" width="47%" />
+  <br/>
+  <img src="./images/5.jpg" width="47%" />
+  <img src="./images/6.jpg" width="47%" />
 </div>
 
 ## ⚙️ Control Examples
