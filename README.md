@@ -98,7 +98,7 @@ Panthera-HT是一款开源六轴机械臂，使用高擎机电的行星关节模
    
 - 通过我们的销售渠道购买的套装将包括一个 220V 转 24V 15A 的电源适配器（三线插头）。若您所在地区的供电电压为220V，您可以直接使用该适配器。
 <div align="center">
-  <img src="./images/power.jpg" width="84%" />
+  <img src="./images/power2.jpg" width="86%" />
 </div>
 
 ### 软件环境
@@ -297,6 +297,12 @@ The core goal of the project is to help students and makers:
 1. Check the [Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model) repository for the complete Bill of Materials (BOM)
 2. Prepare files for sheet metal processing, 3D printing, and CNC machining
 3. Purchase HighTorque joint modules and other electronic components
+4. Regarding the selection of power supply devices, we recommend using an adjustable power supply to provide stable 24V 15A power to the device.
+
+- Sets purchased through our sales channels will include a 220V to 24V 15A power adapter (three-prong plug). If the power supply voltage in your region is 220V, you can directly use this adapter.
+<div align="center">
+  <img src="./images/power2.jpg" width="86%" />
+</div>
 
 ### Software Environment
 
