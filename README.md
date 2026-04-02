@@ -50,31 +50,31 @@ Panthera-HT是一款开源六轴机械臂，使用高擎机电的行星关节模
 ## 📷 项目图片
 
 <div align="center">
-  <img src="./images/1.jpg" width="47%" />
-  <img src="./images/2.jpg" width="47%" />
+  <img src="./images/1.jpg" width="49%" />
+  <img src="./images/2.jpg" width="49%" />
   <br/>
-  <img src="./images/3.jpg" width="47%" />
-  <img src="./images/4.jpg" width="47%" />
+  <img src="./images/3.jpg" width="49%" />
+  <img src="./images/4.jpg" width="49%" />
   <br/>
-  <img src="./images/5.jpg" width="47%" />
-  <img src="./images/6.jpg" width="47%" />
+  <img src="./images/5.jpg" width="49%" />
+  <img src="./images/6.jpg" width="49%" />
 </div>
 
 ## ⚙️ 控制示例
 
 ### 位置速度控制：
 <div align="center">
-  <img src="./video/gif/pos&vel.gif" width="88%"/>
+  <img src="./video/gif/pos&vel.gif" width="94%"/>
 </div>
 
 ### 主从遥操：
 <div align="center">
-  <img src="./video/gif/Teleoperation.gif" width="88%"/>
+  <img src="./video/gif/Teleoperation.gif" width="94%"/>
 </div>
 
 ### 主从遥操抓取：
 <div align="center">
-  <img src="./video/gif/Teleoperated_Grasping.gif" width="88%"/>
+  <img src="./video/gif/Teleoperated_Grasping.gif" width="94%"/>
 </div>
 
 ## 🗃️ 仓库
@@ -253,31 +253,31 @@ The core goal of the project is to help students and makers:
 ## 📷 Project Images
 
 <div align="center">
-  <img src="./images/1.jpg" width="47%" />
-  <img src="./images/2.jpg" width="47%" />
+  <img src="./images/1.jpg" width="49%" />
+  <img src="./images/2.jpg" width="49%" />
   <br/>
-  <img src="./images/3.jpg" width="47%" />
-  <img src="./images/4.jpg" width="47%" />
+  <img src="./images/3.jpg" width="49%" />
+  <img src="./images/4.jpg" width="49%" />
   <br/>
-  <img src="./images/5.jpg" width="47%" />
-  <img src="./images/6.jpg" width="47%" />
+  <img src="./images/5.jpg" width="49%" />
+  <img src="./images/6.jpg" width="49%" />
 </div>
 
 ## ⚙️ Control Examples
 
 ### Position and Speed Control:
 <div align="center">
-  <img src="./video/gif/pos&vel.gif" width="88%"/>
+  <img src="./video/gif/pos&vel.gif" width=94%"/>
 </div>
 
 ### Master-Slave Teleoperation:
 <div align="center">
-  <img src="./video/gif/Teleoperation.gif" width="88%"/>
+  <img src="./video/gif/Teleoperation.gif" width="94%"/>
 </div>
 
 ### Master-Slave Teleoperated Grasping:
 <div align="center">
-  <img src="./video/gif/Teleoperated_Grasping.gif" width="88%"/>
+  <img src="./video/gif/Teleoperated_Grasping.gif" width="94%"/>
 </div>
 
 ## 🗃️ Repository
