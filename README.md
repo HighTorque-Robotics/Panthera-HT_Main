@@ -103,7 +103,7 @@ Panthera-HT是一款开源六轴机械臂，使用高擎机电的行星关节模
 
 ### 软件环境
 
-1. 克隆SDK仓库：
+1. 克隆SDK仓库：~
 ```bash
 git clone https://github.com/HighTorque-Robotics/Panthera-HT_SDK.git
 cd Panthera-HT_SDK
@@ -140,7 +140,9 @@ cd Panthera-HT_SDK
 
 ## 🔗 相关文档与链接
 
-**技术参数**：[机械臂各项参数](./images/parameters.jpg)
+- [快速使用指南](./documents/Panthera-HT快速使用指南A5.pdf)
+- [参数手册](./documents/Panthera-HT参数手册A5.pdf)
+- [机械臂各项参数](./images/参数.jpg)
 
 **演示视频**：
 - 主从遥操打乒乓球：https://www.bilibili.com/video/BV1KprhBPE26/
@@ -355,7 +357,9 @@ Welcome to submit Issues and Pull Requests!
 
 ## 🔗 Related Documents and Links
 
-**Technical Parameters**: [Robotic Arm Parameters](./images/parameters.jpg)
+- [Quick Start Guide](./documents/Panthera-HT_Quick_Start_Guide_A5.pdf)
+- [Parameter Manual](./documents/Panthera-HT_Parameter_Manual_A5.pdf)
+- [Robotic Arm Parameters](./images/parameters.jpg)
 
 **Video Demonstrations**:
 - Master-slave teleoperation playing table tennis: https://www.bilibili.com/video/BV1KprhBPE26/
