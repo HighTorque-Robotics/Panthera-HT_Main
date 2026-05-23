@@ -179,3 +179,42 @@ We will continue to develop in two directions:
 ## ⚠️ Disclaimer
 > [!NOTE]
 > If you build or develop Panthera-HT based on this repository, you will be fully responsible for all physical and mental damages caused to you or others.
+
+---
+## 📦 Project Structure
+
+```text
+Panthera-HT_Main/
+├── LICENSE
+├── README.md
+├── README_zh.md
+├── documents/
+  ├── Panthera-HT_Parameter_Manual_A5.pdf
+  ├── Panthera-HT_Quick_Start_Guide_A5.pdf
+  ├── Panthera-HT参数手册A5.pdf
+  ├── Panthera-HT快速使用指南A5.pdf
+  ├── project.meta.json
+├── images/
+  ├── 1.jpg
+  ├── 2.jpg
+  ├── 3.jpg
+  ├── 4.jpg
+  ├── 5.jpg
+  ├── 6.jpg
+  ├── 7.jpg
+  ├── 8.jpg
+  ├── head.jpg
+  ├── parameters.jpg
+  ├── power2.jpg
+  ├── project.meta.json
+  ├── 参数.jpg
+├── project.meta.json
+├── projects.index.json
+├── video/
+  ├── gif/
+  ├── project.meta.json
+```
+
+## 🛠️ Technology Stack
+
+- **General Documentation & Source Files**

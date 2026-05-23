@@ -1,0 +1,54 @@
+﻿{
+    "$schema":  "../project.meta.schema.json",
+    "schemaVersion":  1,
+    "name":  "Panthera-HT_Main",
+    "title":  "Panthera-HT",
+    "kind":  "git-repository",
+    "status":  "unknown",
+    "category":  "workspace-folder",
+    "description":  "A high-quality workspace folder project named Panthera Ht Main, built using various technologies and focused on workspace folder concepts with rich metadata.",
+    "tags":  [
+                 "workspace-folder",
+                 "ai"
+             ],
+    "priority":  "unset",
+    "owner":  "",
+    "paths":  {
+                  "relative":  "Panthera-HT_Main",
+                  "absolute":  "F:\\learnbydoingwithsteven\\Panthera-HT_Main"
+              },
+    "repo":  {
+                 "hasGit":  true,
+                 "remote":  "https://github.com/learnbydoingwithsteven/Panthera-HT_Main.git"
+             },
+    "stack":  [
+
+              ],
+    "entrypoints":  {
+                        "readme":  "README.md"
+                    },
+    "signals":  {
+                    "hasReadme":  true,
+                    "hasPackageJson":  false,
+                    "hasIndexHtml":  false,
+                    "hasViteConfig":  false,
+                    "hasNextConfig":  false,
+                    "hasPython":  false,
+                    "hasNotebooks":  false
+                },
+    "children":  {
+                     "count":  3,
+                     "immediateProjectSignalCount":  3
+                 },
+    "activity":  {
+                     "lastModifiedLocal":  "2026-05-11T22:41:28",
+                     "inferredActivity":  "hot"
+                 },
+    "notes":  "",
+    "metadata":  {
+                     "generated":  true,
+                     "generatedAt":  "2026-05-23T10:55:25Z",
+                     "generatedBy":  "tools/update_project_metadata.ps1",
+                     "confidence":  "inferred"
+                 }
+}
