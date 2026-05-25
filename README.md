@@ -82,7 +82,7 @@ Panthera-HT是一款开源六轴机械臂，使用高擎机电的行星关节模
 | 仓库                                                                                  | 许可证         | 描述                                                          |
 | ------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------- |
 | **[Panthera-HT_Main](https://github.com/HighTorque-Robotics/Panthera-HT_Main)**       | [MIT](LICENSE) | 主项目仓库，包含项目介绍、仓库链接和功能请求。                |
-| **[Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model)**     | [MIT](LICENSE) | SolidWorks原始设计文件、钣金图、3D打印文件和物料清单（BOM）。 |
+| **[Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model)**     | [MIT](LICENSE) | SolidWorks原始设计文件、钣金图和物料清单（BOM）。 |
 | **[Panthera-HT_SDK](https://github.com/HighTorque-Robotics/Panthera-HT_SDK)**         | [MIT](LICENSE) | C++/Python SDK 开发包，提供快速上手的示例代码与开发工具链。       |
 | **[Panthera-HT_ROS2](https://github.com/HighTorque-Robotics/Panthera-HT-ROS2)**       | [MIT](LICENSE) | ROS2 开发包，提供机械臂的驱动、控制与仿真支持。               |
 | **[Panthera-HT_lerobot](https://github.com/HighTorque-Robotics/Panthera-HT_lerobot)** | [MIT](LICENSE) | LeRobot 集成包，支持模仿学习和机器人学习算法。                |
@@ -93,7 +93,7 @@ Panthera-HT是一款开源六轴机械臂，使用高擎机电的行星关节模
 
 | 目标 | 推荐入口 | 你会找到 |
 | ---- | -------- | -------- |
-| 了解硬件与结构 | [Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model) | SolidWorks 原始设计文件、钣金图、3D 打印文件、BOM |
+| 了解硬件与结构 | [Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model) | SolidWorks 原始设计文件、钣金图、BOM |
 | 运行基础控制示例 | [Panthera-HT_SDK](https://github.com/HighTorque-Robotics/Panthera-HT_SDK) | C++/Python SDK、安装说明、位置/速度/力矩控制示例 |
 | 使用 ROS2 开发 | [Panthera-HT_ROS2](https://github.com/HighTorque-Robotics/Panthera-HT-ROS2) | ROS2 驱动、控制与仿真支持 |
 | 进行模仿学习实验 | [Panthera-HT_lerobot](https://github.com/HighTorque-Robotics/Panthera-HT_lerobot) | LeRobot 数据采集、推理与机器人学习集成 |
@@ -296,7 +296,7 @@ The core goal of the project is to help students and makers:
 | Repository                                                                            | License        | Description                                                                                                       |
 | ------------------------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------------------------- |
 | **[Panthera-HT_Main](https://github.com/HighTorque-Robotics/Panthera-HT_Main)**       | [MIT](LICENSE) | Main project repository, including project introduction, repository links, and feature requests.                  |
-| **[Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model)**     | [MIT](LICENSE) | SolidWorks original design files, sheet metal unfolding diagrams, 3D printing files, and Bill of Materials (BOM). |
+| **[Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model)**     | [MIT](LICENSE) | SolidWorks original design files, sheet metal unfolding diagrams, and Bill of Materials (BOM). |
 | **[Panthera-HT_SDK](https://github.com/HighTorque-Robotics/Panthera-HT_SDK)**         | [MIT](LICENSE) | C++/Python SDK development package, providing quick-start example code and development toolchain.                     |
 | **[Panthera-HT_ROS2](https://github.com/HighTorque-Robotics/Panthera-HT-ROS2)**       | [MIT](LICENSE) | ROS2 development package providing robotic arm drivers, control, and simulation support.                          |
 | **[Panthera-HT_lerobot](https://github.com/HighTorque-Robotics/Panthera-HT_lerobot)** | [MIT](LICENSE) | LeRobot integration package, supporting imitation learning and robot learning algorithms.                         |
