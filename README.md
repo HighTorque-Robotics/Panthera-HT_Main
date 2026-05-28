@@ -73,15 +73,15 @@ Panthera-HT 是一款开源六轴机械臂，使用高擎机电的行星关节�
 
 ## 🧭 能力状态
 
-| 方向       | 已支持                                 | 可扩展                           |
-| ---------- | -------------------------------------- | -------------------------------- |
-| 基础控制   | 位置控制、速度控制、力矩控制、阻抗控制 | 更多控制示例与参数整定教程       |
-| 补偿控制   | 重力补偿、重力补偿-摩擦力补偿          | 更完善的动力学标定流程           |
-| 遥操作     | 双臂主从遥操、拖动示教                 | 复杂任务示教、数据集标准化       |
-| 视觉能力   | 视觉伺服、色块视觉跟踪                 | 多目标跟踪、相机标定流程完善     |
-| 抓取能力   | GraspNet 抓取位姿估计 Demo             | 点云避障、抓取成功率评估         |
-| 机器人学习 | LeRobot 数据采集与推理                 | 更多具身智能算法适配             |
-| ROS2 生态  | 驱动、控制与仿真支持                   | MoveIt、仿真场景和传感器链路完善 |
+| 方向       | 已支持                                 |
+| ---------- | -------------------------------------- |
+| 基础控制   | 位置控制、速度控制、力矩控制、阻抗控制 |
+| 补偿控制   | 重力补偿、重力补偿-摩擦力补偿          |
+| 遥操作     | 双臂主从遥操、拖动示教                 |
+| 视觉能力   | 视觉伺服、色块视觉跟踪                 |
+| 抓取能力   | GraspNet 抓取位姿估计 Demo             |
+| 机器人学习 | LeRobot 数据采集与推理                 |
+| ROS2 生态  | 驱动、控制与仿真支持                   |
 
 ## 🎯 适合的应用场景
 
@@ -307,15 +307,15 @@ Later, the original project author and HighTorque hit it off, and with HighTorqu
 
 ## 🧭 Capability Status
 
-| Direction            | Supported                                              | Extensible                                                     |
-| -------------------- | ------------------------------------------------------ | -------------------------------------------------------------- |
-| Basic Control        | Position, velocity, torque, and impedance control      | More control examples and tuning tutorials                     |
-| Compensation Control | Gravity compensation and gravity-friction compensation | More complete dynamics calibration workflow                    |
-| Teleoperation        | Dual-arm master-slave teleoperation and drag teaching  | Complex task teaching and dataset standardization              |
-| Vision               | Visual servoing and color-block tracking               | Multi-object tracking and improved camera calibration workflow |
-| Grasping             | GraspNet grasp pose estimation demo                    | Point-cloud obstacle avoidance and grasp success evaluation    |
-| Robot Learning       | LeRobot data collection and inference                  | More embodied AI algorithm integrations                        |
-| ROS2 Ecosystem       | Drivers, control, and simulation support               | MoveIt, simulation scenes, and sensor pipeline improvements    |
+| Direction            | Supported                                              |
+| -------------------- | ------------------------------------------------------ |
+| Basic Control        | Position, velocity, torque, and impedance control      |
+| Compensation Control | Gravity compensation and gravity-friction compensation |
+| Teleoperation        | Dual-arm master-slave teleoperation and drag teaching  |
+| Vision               | Visual servoing and color-block tracking               |
+| Grasping             | GraspNet grasp pose estimation demo                    |
+| Robot Learning       | LeRobot data collection and inference                  |
+| ROS2 Ecosystem       | Drivers, control, and simulation support               |
 
 ## 🎯 Use Cases
 
