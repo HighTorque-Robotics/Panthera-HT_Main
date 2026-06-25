@@ -8,6 +8,8 @@
 
 面向学生、创客、教学实验和机器人学习开发的开源六轴机械臂平台。
 
+> 官方网站：[Panthera-HT Hub](https://hightorque.cn/Panthera-HT_Hub/)
+
 <div align="center">
   <img alt="leader" src="images/head.jpg"/>
 </div>
@@ -167,6 +169,7 @@ cd Panthera-HT_SDK
 
 ## 🔗 相关文档与链接
 
+- [Panthera-HT 官方网站](https://hightorque.cn/Panthera-HT_Hub/)
 - [快速使用指南](./documents/Panthera-HT快速使用指南A5.pdf)
 - [参数手册](./documents/Panthera-HT参数手册A5.pdf)
 - [机械臂各项参数](./images/参数.jpg)
@@ -243,6 +246,8 @@ cd Panthera-HT_SDK
 [![中文](https://img.shields.io/badge/lang-简体中文-red.svg)](#中文)[![en](https://img.shields.io/badge/lang-English-blue.svg)](#english)
 
 An open-source six-axis robotic arm platform for students, makers, education and robot learning development.
+
+> Official Website: [Panthera-HT Hub](https://hightorque.cn/Panthera-HT_Hub/)
 
 <div align="center">
   <img alt="leader" src="images/8.jpg"/>
@@ -403,6 +408,7 @@ Welcome to submit Issues and Pull Requests!
 
 ## 🔗 Related Documents and Links
 
+- [Panthera-HT Official Website](https://hightorque.cn/Panthera-HT_Hub/)
 - [Quick Start Guide](./documents/Panthera-HT_Quick_Start_Guide_A5.pdf)
 - [Parameter Manual](./documents/Panthera-HT_Parameter_Manual_A5.pdf)
 - [Robotic Arm Parameters](./images/parameters.jpg)
