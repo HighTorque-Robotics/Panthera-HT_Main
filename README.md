@@ -46,31 +46,31 @@ Panthera-HT 是一款开源六轴机械臂，使用高擎机电的行星关节�
 ## 📷 项目图片
 
 <div align="center">
-  <img src="./images/1.jpg" width="49%" />
-  <img src="./images/2.jpg" width="49%" />
+  <img src="./images/1.jpg" width="47%" />
+  <img src="./images/2.jpg" width="47%" />
   <br/>
-  <img src="./images/3.jpg" width="49%" />
-  <img src="./images/4.jpg" width="49%" />
+  <img src="./images/3.jpg" width="47%" />
+  <img src="./images/4.jpg" width="47%" />
   <br/>
-  <img src="./images/5.jpg" width="49%" />
-  <img src="./images/6.jpg" width="49%" />
+  <img src="./images/5.jpg" width="47%" />
+  <img src="./images/6.jpg" width="47%" />
 </div>
 
 ## ⚙️ 控制示例
 
 ### 位置速度控制：
 <div align="center">
-  <img src="./video/gif/pos&vel.gif" width="94%"/>
+  <img src="./video/gif/pos&vel.gif" width="88%"/>
 </div>
 
 ### 主从遥操：
 <div align="center">
-  <img src="./video/gif/Teleoperation.gif" width="94%"/>
+  <img src="./video/gif/Teleoperation.gif" width="88%"/>
 </div>
 
 ### 主从遥操抓取：
 <div align="center">
-  <img src="./video/gif/Teleoperated_Grasping.gif" width="94%"/>
+  <img src="./video/gif/Teleoperated_Grasping.gif" width="88%"/>
 </div>
 
 ## 🧭 能力状态
@@ -99,28 +99,22 @@ Panthera-HT 是一款开源六轴机械臂，使用高擎机电的行星关节�
 
 | 仓库                                                                                            | 许可证         | 描述                                                            |
 | ----------------------------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------- |
-| **[Panthera-HT_Main](https://github.com/HighTorque-Robotics/Panthera-HT_Main)**                 | [MIT](LICENSE) | 主项目仓库，包含项目介绍、仓库链接和功能请求。                  |
-| **[Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model)**               | [MIT](LICENSE) | SolidWorks 原始设计文件、钣金图、3D 打印文件和物料清单（BOM）。 |
 | **[Panthera-HT_SDK](https://github.com/HighTorque-Robotics/Panthera-HT_SDK)**                   | [MIT](LICENSE) | C++/Python SDK 开发包，提供快速上手的示例代码与开发工具链。     |
+| **[Panthera-HT_Host](https://github.com/HighTorque-Robotics/Panthera-HT_Host)**                 | [MIT](LICENSE) | 机械臂上位机 Web 可视化控制平台与 SDK 示例集成。                 |
 | **[Panthera-HT_ROS2](https://github.com/HighTorque-Robotics/Panthera-HT-ROS2)**                 | [MIT](LICENSE) | ROS2 开发包，提供机械臂的驱动、控制与仿真支持。                 |
 | **[Panthera-HT_lerobot](https://github.com/HighTorque-Robotics/Panthera-HT_lerobot)**           | [MIT](LICENSE) | LeRobot 集成包，支持模仿学习和机器人学习算法。                  |
 | **[Panthera-HT_Extensions](https://github.com/HighTorque-Robotics/Panthera_HT_SDK_Extensions)** | [MIT](LICENSE) | 开发案例仓库，包括d405相机手眼标定、视觉伺服等流程的实现。      |
-| **[Panthera-HT_Host](https://github.com/HighTorque-Robotics/Panthera-HT_Host)**                 | [MIT](LICENSE) | 机械臂上位机Web可视化控制平台与SDK示例集成                      |
+| **[Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model)**               | [MIT](LICENSE) | SolidWorks 原始设计文件、钣金图、3D 打印文件和物料清单（BOM）。 |
 
 ## 🚀 快速开始
 
-### 选择你的起步路径
+### 开箱搭建
 
-| 目标             | 推荐入口                                                                          | 你会找到                                          |
-| ---------------- | --------------------------------------------------------------------------------- | ------------------------------------------------- |
-| 了解硬件与结构   | [Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model)     | SolidWorks 原始设计文件、钣金图、3D 打印文件、BOM |
-| 运行基础控制示例 | [Panthera-HT_SDK](https://github.com/HighTorque-Robotics/Panthera-HT_SDK)         | C++/Python SDK、安装说明、位置/速度/力矩控制示例  |
-| 使用 ROS2 开发   | [Panthera-HT_ROS2](https://github.com/HighTorque-Robotics/Panthera-HT-ROS2)       | ROS2 驱动、控制与仿真支持                         |
-| 进行模仿学习实验 | [Panthera-HT_lerobot](https://github.com/HighTorque-Robotics/Panthera-HT_lerobot) | LeRobot 数据采集、推理与机器人学习集成            |
+按照[快速使用指南](./documents/Panthera-HT快速使用指南A5.pdf)的说明搭建机械臂，并查看[参数手册](./documents/Panthera-HT参数手册A5.pdf)以了解机械臂的基本参数信息。
 
-### 硬件准备
+### 硬件准备（自行组装可选步骤）
 
-1. 查看 [Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model) 仓库获取完整的物料清单（BOM）。
+1. 查看 [Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model) 仓库了解完整的物料清单（BOM）。
 2. 准备钣金加工、3D 打印和 CNC 加工的文件。
 3. 采购高擎机电的关节模组和其他电子元件。
 4. 关于供电器件的选择，我们建议使用可调电源为设备提供 24V 15A 稳定供电。
@@ -170,20 +164,18 @@ cd Panthera-HT_SDK
 ## 🔗 相关文档与链接
 
 - [Panthera-HT 官方网站](https://hightorque.cn/Panthera-HT_Hub/)
-- [快速使用指南](./documents/Panthera-HT快速使用指南A5.pdf)
-- [参数手册](./documents/Panthera-HT参数手册A5.pdf)
-- [机械臂各项参数](./images/参数.jpg)
+- [资料库](https://alidocs.dingtalk.com/i/nodes/ydxXB52LJq19j0OkUMNm3GO4JqjMp697)
 
 **产品发布**：
-- Panthera-HT 产品发布文章：https://mp.weixin.qq.com/s/Q9vUWf82evteEj3tVbXJsQ
+- Panthera-HT 发布文章：https://mp.weixin.qq.com/s/Q9vUWf82evteEj3tVbXJsQ
 
 **基础控制**：
-- SDK配置与上手：https://www.bilibili.com/video/BV1SxwYzhEai/
+- SDK配置与快速上手（视频教程）：https://www.bilibili.com/video/BV1SxwYzhEai/
 
 **视觉与抓取**：
 - GraspNet抓取位姿估计：https://www.bilibili.com/video/BV13KcDzLE3F/
 - 视觉跟踪色块：https://www.bilibili.com/video/BV1JQPfz4EPN
-- 视觉伺服 Demo：待补充视频或文档链接
+- OpenClaw + 机械臂：https://www.bilibili.com/video/BV1e7QvBJERZ/
 
 **遥操与数据采集**：
 - 主从遥操打乒乓球：https://www.bilibili.com/video/BV1KprhBPE26/
@@ -194,6 +186,26 @@ cd Panthera-HT_SDK
 
 **相关项目**：
 - 夹爪设计参考：[UMI (Universal Manipulation Interface)](https://github.com/real-stanford/universal_manipulation_interface)
+
+## 其他型号
+
+### Panthera-HT_S 六轴机械臂
+
+Panthera-HT_S 是 Panthera-HT 的 Mini 型号，在尺寸和性能上做了调整。
+
+<div align="center">
+  <img src="./images/S.jpg" width="92%" alt="Panthera-HT_S Mini 六轴机械臂渲染图" />
+</div>
+
+SDK仓库：https://github.com/HighTorque-Robotics/Panthera-HT_S_SDK
+
+| 参数对比 | Panthera-HT | Panthera-HT_S |
+| --- | ---: | ---: |
+| 质量 | 4.35 kg | 3 kg |
+| 臂展 | 860 mm | 641 mm |
+| 折叠尺寸 | 460 mm | 410 mm |
+| 最大负载 | 3.5 kg | 2.85 kg |
+| 最大关节扭矩（峰值） | 36 Nm | 21 Nm |
 
 ## 🚀 未来规划
 
@@ -223,14 +235,14 @@ cd Panthera-HT_SDK
   <img src="https://github.com/tankail.png" width="60px;" style="border-radius: 50%;" alt=""/>
 </a>
 
-## ⭐ Star History
+<!-- ## ⭐ Star History
 <a href="https://www.star-history.com/?repos=HighTorque-Robotics%2FPanthera-HT_Main&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=HighTorque-Robotics/Panthera-HT_Main&type=date&theme=dark&legend=top-left" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=HighTorque-Robotics/Panthera-HT_Main&type=date&legend=top-left" />
    <img alt="Star History Chart" src="https://api.star-history.com/image?repos=HighTorque-Robotics/Panthera-HT_Main&type=date&legend=top-left" />
  </picture>
-</a>
+</a> -->
 
 ## ⚠️ 免责声明
 
@@ -285,31 +297,31 @@ Later, the original project author and HighTorque hit it off, and with HighTorqu
 ## 📷 Project Images
 
 <div align="center">
-  <img src="./images/1.jpg" width="49%" />
-  <img src="./images/2.jpg" width="49%" />
+  <img src="./images/1.jpg" width="47%" />
+  <img src="./images/2.jpg" width="47%" />
   <br/>
-  <img src="./images/3.jpg" width="49%" />
-  <img src="./images/4.jpg" width="49%" />
+  <img src="./images/3.jpg" width="47%" />
+  <img src="./images/4.jpg" width="47%" />
   <br/>
-  <img src="./images/5.jpg" width="49%" />
-  <img src="./images/6.jpg" width="49%" />
+  <img src="./images/5.jpg" width="47%" />
+  <img src="./images/6.jpg" width="47%" />
 </div>
 
 ## ⚙️ Control Examples
 
 ### Position and Speed Control:
 <div align="center">
-  <img src="./video/gif/pos&vel.gif" width="94%"/>
+  <img src="./video/gif/pos&vel.gif" width="88%"/>
 </div>
 
 ### Master-Slave Teleoperation:
 <div align="center">
-  <img src="./video/gif/Teleoperation.gif" width="94%"/>
+  <img src="./video/gif/Teleoperation.gif" width="88%"/>
 </div>
 
 ### Master-Slave Teleoperated Grasping:
 <div align="center">
-  <img src="./video/gif/Teleoperated_Grasping.gif" width="94%"/>
+  <img src="./video/gif/Teleoperated_Grasping.gif" width="88%"/>
 </div>
 
 ## 🧭 Capability Status
@@ -338,28 +350,22 @@ Later, the original project author and HighTorque hit it off, and with HighTorqu
 
 | Repository                                                                                      | License        | Description                                                                                                                                |
 | ----------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **[Panthera-HT_Main](https://github.com/HighTorque-Robotics/Panthera-HT_Main)**                 | [MIT](LICENSE) | Main project repository, including project introduction, repository links, and feature requests.                                           |
-| **[Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model)**               | [MIT](LICENSE) | SolidWorks original design files, sheet metal unfolding diagrams, 3D printing files, and Bill of Materials (BOM).                          |
 | **[Panthera-HT_SDK](https://github.com/HighTorque-Robotics/Panthera-HT_SDK)**                   | [MIT](LICENSE) | C++/Python SDK development package, providing quick-start example code and development toolchain.                                          |
+| **[Panthera-HT_Host](https://github.com/HighTorque-Robotics/Panthera-HT_Host)**                 | [MIT](LICENSE) | Integration of Robotic Arm PC Web Visualization Control Platform with SDK Examples.                                                        |
 | **[Panthera-HT_ROS2](https://github.com/HighTorque-Robotics/Panthera-HT-ROS2)**                 | [MIT](LICENSE) | ROS2 development package providing robotic arm drivers, control, and simulation support.                                                   |
 | **[Panthera-HT_lerobot](https://github.com/HighTorque-Robotics/Panthera-HT_lerobot)**           | [MIT](LICENSE) | LeRobot integration package, supporting imitation learning and robot learning algorithms.                                                  |
 | **[Panthera-HT_Extensions](https://github.com/HighTorque-Robotics/Panthera_HT_SDK_Extensions)** | [MIT](LICENSE) | A repository of development cases, including the implementation of processes such as D405 camera hand-eye calibration and visual servoing. |
-| **[Panthera-HT_Host](https://github.com/HighTorque-Robotics/Panthera-HT_Host)**                 | [MIT](LICENSE) | Integration of Robotic Arm PC Web Visualization Control Platform with SDK Examples.                                                        |
+| **[Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model)**               | [MIT](LICENSE) | SolidWorks original design files, sheet metal unfolding diagrams, 3D printing files, and Bill of Materials (BOM).                          |
 
 ## 🚀 Quick Start
 
-### Choose Your Starting Path
+### Unboxing and Setup
 
-| Goal                               | Recommended Entry                                                                 | What You Will Find                                                                |
-| ---------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| Learn the hardware and structure   | [Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model)     | SolidWorks source files, sheet-metal drawings, 3D-printing files, and BOM         |
-| Run basic control examples         | [Panthera-HT_SDK](https://github.com/HighTorque-Robotics/Panthera-HT_SDK)         | C++/Python SDK, installation notes, and position/velocity/torque control examples |
-| Develop with ROS2                  | [Panthera-HT_ROS2](https://github.com/HighTorque-Robotics/Panthera-HT-ROS2)       | ROS2 drivers, control, and simulation support                                     |
-| Experiment with imitation learning | [Panthera-HT_lerobot](https://github.com/HighTorque-Robotics/Panthera-HT_lerobot) | LeRobot data collection, inference, and robot learning integration                |
+Follow the [Quick Start Guide](./documents/Panthera-HT_Quick_Start_Guide_A5.pdf) to assemble the robotic arm, and consult the [Parameter Manual](./documents/Panthera-HT_Parameter_Manual_A5.pdf) for its basic specifications.
 
-### Hardware Preparation
+### Hardware Preparation (Optional for Self-Assembly)
 
-1. Check the [Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model) repository for the complete Bill of Materials (BOM).
+1. Check the [Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model) repository to review the complete Bill of Materials (BOM).
 2. Prepare files for sheet metal processing, 3D printing, and CNC machining.
 3. Purchase HighTorque joint modules and other electronic components.
 4. Regarding the selection of power supply devices, we recommend using an adjustable power supply to provide stable 24V 15A power to the device.
@@ -409,20 +415,18 @@ Welcome to submit Issues and Pull Requests!
 ## 🔗 Related Documents and Links
 
 - [Panthera-HT Official Website](https://hightorque.cn/Panthera-HT_Hub/)
-- [Quick Start Guide](./documents/Panthera-HT_Quick_Start_Guide_A5.pdf)
-- [Parameter Manual](./documents/Panthera-HT_Parameter_Manual_A5.pdf)
-- [Robotic Arm Parameters](./images/parameters.jpg)
+- [Resource Library](https://alidocs.dingtalk.com/i/nodes/ydxXB52LJq19j0OkUMNm3GO4JqjMp697)
 
 **Product Launch**:
-- Panthera-HT product launch article: https://mp.weixin.qq.com/s/Q9vUWf82evteEj3tVbXJsQ
+- Panthera-HT launch article: https://mp.weixin.qq.com/s/Q9vUWf82evteEj3tVbXJsQ
 
 **Basic Control**:
-- SDK setup and first use: https://www.bilibili.com/video/BV1SxwYzhEai/
+- SDK setup and quick start (video tutorial): https://www.bilibili.com/video/BV1SxwYzhEai/
 
 **Vision and Grasping**:
 - GraspNet grasp pose estimation: https://www.bilibili.com/video/BV13KcDzLE3F/
 - Color-block visual tracking: https://www.bilibili.com/video/BV1JQPfz4EPN/
-- Visual servoing demo: video or document link to be added
+- OpenClaw + robotic arm: https://www.bilibili.com/video/BV1e7QvBJERZ/
 
 **Teleoperation and Data Collection**:
 - Master-slave teleoperation playing table tennis: https://www.bilibili.com/video/BV1KprhBPE26/
@@ -433,6 +437,26 @@ Welcome to submit Issues and Pull Requests!
 
 **Related Projects**:
 - Gripper Design Reference: [UMI (Universal Manipulation Interface)](https://github.com/real-stanford/universal_manipulation_interface)
+
+## Other Models
+
+### Panthera-HT_S 6-DOF Robotic Arm
+
+<div align="center">
+  <img src="./images/S.jpg" width="92%" alt="Panthera-HT_S Mini 6-DOF robotic arm render" />
+</div>
+
+Panthera-HT_S is the Mini model of Panthera-HT, with adjustments to its size and performance.
+
+SDK repository: https://github.com/HighTorque-Robotics/Panthera-HT_S_SDK
+
+| Parameter comparison | Panthera-HT | Panthera-HT_S |
+| --- | ---: | ---: |
+| Mass | 4.35 kg | 3 kg |
+| Arm span | 860 mm | 641 mm |
+| Folded dimensions | 460 mm | 410 mm |
+| Maximum payload | 3.5 kg | 2.85 kg |
+| Maximum joint torque (peak) | 36 Nm | 21 Nm |
 
 ## 🚀 Future Roadmap
 
@@ -462,14 +486,14 @@ We will continue improving the current capabilities and expanding more demos for
   <img src="https://github.com/tankail.png" width="60px;" style="border-radius: 50%;" alt=""/>
 </a>
 
-## ⭐ Star History
+<!-- ## ⭐ Star History
 <a href="https://www.star-history.com/?repos=HighTorque-Robotics%2FPanthera-HT_Main&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=HighTorque-Robotics/Panthera-HT_Main&type=date&theme=dark&legend=top-left" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=HighTorque-Robotics/Panthera-HT_Main&type=date&legend=top-left" />
    <img alt="Star History Chart" src="https://api.star-history.com/image?repos=HighTorque-Robotics/Panthera-HT_Main&type=date&legend=top-left" />
  </picture>
-</a>
+</a> -->
 
 ## ⚠️ Disclaimer
 
