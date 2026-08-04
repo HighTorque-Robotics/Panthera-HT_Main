@@ -121,7 +121,7 @@ Panthera-HT 是一款开源六轴机械臂，使用高擎机电的行星关节�
 
 - 通过我们的销售渠道购买的套装将包括一个 220V 转 24V 15A 的电源适配器（三线插头）。若您所在地区的供电电压为 220V，您可以直接使用该适配器。
 <div align="center">
-  <img src="./images/power2.jpg" width="86%" />
+  <img src="./images/power.jpg" width="86%" />
 </div>
 
 ### 软件环境
