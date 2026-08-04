@@ -11,7 +11,7 @@
 > 官方网站：[Panthera-HT Hub](https://hightorque.cn/Panthera-HT_Hub/)
 
 <div align="center">
-  <img alt="leader" src="images/head.jpg"/>
+  <img alt="leader" src="images/首页.jpg"/>
 </div>
 
 Panthera-HT 是一款开源六轴机械臂，使用高擎机电的行星关节模组。我们面向开发者提供可复用的统一控制接口，用于算法验证、课程实验、系统集成、具身智能数据采集及二次开发的标准化软硬件实验平台。
@@ -95,9 +95,9 @@ Panthera-HT 是一款开源六轴机械臂，使用高擎机电的行星关节�
 - **具身智能数据采集**：结合主从遥操、拖动示教和 LeRobot，采集模仿学习数据。
 - **ROS2 控制与仿真教学**：用于驱动开发、控制链路、仿真环境和系统集成训练。
 
-## 🗃️ 仓库
+## 🗃️ 其他仓库
 
-| 仓库                                                                                            | 许可证         | 描述                                                            |
+| 仓库                                                                                          | 许可证         | 描述                                                            |
 | ----------------------------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------- |
 | **[Panthera-HT_SDK](https://github.com/HighTorque-Robotics/Panthera-HT_SDK)**                   | [MIT](LICENSE) | C++/Python SDK 开发包，提供快速上手的示例代码与开发工具链。     |
 | **[Panthera-HT_Host](https://github.com/HighTorque-Robotics/Panthera-HT_Host)**                 | [MIT](LICENSE) | 机械臂上位机 Web 可视化控制平台与 SDK 示例集成。                 |
@@ -165,6 +165,7 @@ cd Panthera-HT_SDK
 
 - [Panthera-HT 官方网站](https://hightorque.cn/Panthera-HT_Hub/)
 - [资料库](https://alidocs.dingtalk.com/i/nodes/ydxXB52LJq19j0OkUMNm3GO4JqjMp697)
+- [参数表](images/参数.jpg)
 
 **产品发布**：
 - Panthera-HT 发布文章：https://mp.weixin.qq.com/s/Q9vUWf82evteEj3tVbXJsQ
@@ -191,13 +192,14 @@ cd Panthera-HT_SDK
 
 ### Panthera-HT_S 六轴机械臂
 
-Panthera-HT_S 是 Panthera-HT 的 Mini 型号，在尺寸和性能上做了调整。
+Panthera-HT_S 是 Panthera-HT 的 Mini 型号，在整体尺寸和性能上做了调整，但是夹爪尺寸是一样的。
 
 <div align="center">
   <img src="./images/S.jpg" width="92%" alt="Panthera-HT_S Mini 六轴机械臂渲染图" />
 </div>
 
 SDK仓库：https://github.com/HighTorque-Robotics/Panthera-HT_S_SDK
+参数表：[Panthera-HT_S参数](images/S参数.jpg)
 
 | 参数对比 | Panthera-HT | Panthera-HT_S |
 | --- | ---: | ---: |
@@ -262,7 +264,7 @@ An open-source six-axis robotic arm platform for students, makers, education and
 > Official Website: [Panthera-HT Hub](https://hightorque.cn/Panthera-HT_Hub/)
 
 <div align="center">
-  <img alt="leader" src="images/8.jpg"/>
+  <img alt="leader" src="images/head.png"/>
 </div>
 
 Panthera-HT is an open-source six-axis robotic arm that uses HighTorque planetary joint modules. It provides developers with a reusable unified control interface, serving as a standardized hardware and software experimental platform for algorithm verification, course experiments, system integration, embodied AI data collection, and secondary development.
@@ -346,7 +348,7 @@ Later, the original project author and HighTorque hit it off, and with HighTorqu
 - **Embodied AI data collection**: Collect imitation learning data with teleoperation, drag teaching, and LeRobot.
 - **ROS2 control and simulation training**: Driver development, control pipelines, simulation, and system integration.
 
-## 🗃️ Repository
+## 🗃️ Other Repositories
 
 | Repository                                                                                      | License        | Description                                                                                                                                |
 | ----------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -372,7 +374,7 @@ Follow the [Quick Start Guide](./documents/Panthera-HT_Quick_Start_Guide_A5.pdf)
 
 - Sets purchased through our sales channels will include a 220V to 24V 15A power adapter (three-prong plug). If the power supply voltage in your region is 220V, you can directly use this adapter.
 <div align="center">
-  <img src="./images/power2.jpg" width="86%" />
+  <img src="./images/power.jpg" width="86%" />
 </div>
 
 ### Software Environment
@@ -416,6 +418,7 @@ Welcome to submit Issues and Pull Requests!
 
 - [Panthera-HT Official Website](https://hightorque.cn/Panthera-HT_Hub/)
 - [Resource Library](https://alidocs.dingtalk.com/i/nodes/ydxXB52LJq19j0OkUMNm3GO4JqjMp697)
+- [Parameter](images/parameter.jpg)
 
 **Product Launch**:
 - Panthera-HT launch article: https://mp.weixin.qq.com/s/Q9vUWf82evteEj3tVbXJsQ
@@ -442,11 +445,11 @@ Welcome to submit Issues and Pull Requests!
 
 ### Panthera-HT_S 6-DOF Robotic Arm
 
+Panthera-HT_S is the Mini model of Panthera-HT, with adjustments made to overall size and performance, but the gripper size remains the same.
+
 <div align="center">
   <img src="./images/S.jpg" width="92%" alt="Panthera-HT_S Mini 6-DOF robotic arm render" />
 </div>
-
-Panthera-HT_S is the Mini model of Panthera-HT, with adjustments to its size and performance.
 
 SDK repository: https://github.com/HighTorque-Robotics/Panthera-HT_S_SDK
 
