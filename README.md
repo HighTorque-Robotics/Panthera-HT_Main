@@ -199,6 +199,7 @@ Panthera-HT_S 是 Panthera-HT 的 Mini 型号，在整体尺寸和性能上做�
 </div>
 
 SDK仓库：https://github.com/HighTorque-Robotics/Panthera-HT_S_SDK
+
 参数表：[Panthera-HT_S参数](images/S参数.jpg)
 
 | 参数对比 | Panthera-HT | Panthera-HT_S |
