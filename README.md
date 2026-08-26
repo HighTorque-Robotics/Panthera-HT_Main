@@ -105,6 +105,7 @@ Panthera-HT 是一款开源六轴机械臂，使用高擎机电的行星关节�
 | **[Panthera-HT_lerobot](https://github.com/HighTorque-Robotics/Panthera-HT_lerobot)**           | [MIT](LICENSE) | LeRobot 集成包，支持模仿学习和机器人学习算法。                  |
 | **[Panthera-HT_Extensions](https://github.com/HighTorque-Robotics/Panthera_HT_SDK_Extensions)** | [MIT](LICENSE) | 开发案例仓库，包括d405相机手眼标定、视觉伺服等流程的实现。      |
 | **[Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model)**               | [MIT](LICENSE) | SolidWorks 原始设计文件、钣金图、3D 打印文件和物料清单（BOM）。 |
+| **[Panthera-HT_RoboTwin](https://github.com/HighTorque-Robotics/Panthera-HT_RoboTwin)**         | [MIT](LICENSE) | RoboTwin2.0适配，支持使用panthera进行仿真单双臂采集 |
 
 ## 🚀 快速开始
 
@@ -222,7 +223,6 @@ SDK仓库：https://github.com/HighTorque-Robotics/Panthera-HT_S_SDK
 
 ### 具身智能方向
 - Pi0、Pi0.5 等前沿算法集成
-- RoboTWin2.0 适配
 - 端到端学习
 - 多模态感知与控制
 
@@ -474,7 +474,6 @@ We will continue improving the current capabilities and expanding more demos for
 
 ### Embodied Intelligence
 - Integration of cutting-edge algorithms like Pi0, Pi0.5
-- RoboTWin2.0 adaptation
 - End-to-end learning
 - Multimodal perception and control
 
