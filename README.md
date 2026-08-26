@@ -16,7 +16,7 @@
 
 Panthera-HT 是一款开源六轴机械臂，使用高擎机电的行星关节模组。我们面向开发者提供可复用的统一控制接口，用于算法验证、课程实验、系统集成、具身智能数据采集及二次开发的标准化软硬件实验平台。
 
-机械臂现有的控制方式包括 C++、Python 和 ROS2，拥有的一些功能：位置/速度/力矩控制、阻抗控制、重力补偿模式、重力补偿-摩擦力补偿模式、主从遥操（双臂）、拖动示教等。此外，还支持在 LeRobot 框架下进行数据采集和推理。最新开发 Demo 已覆盖视觉伺服、GraspNet 抓取位姿估计、视觉跟踪色块等方向，更多运行脚本请参考 SDK 文档。
+机械臂现有的控制方式包括 C++、Python 和 ROS2，拥有的一些功能：位置/速度/力矩控制、阻抗控制、重力补偿模式、重力补偿-摩擦力补偿模式、主从遥操（双臂）、拖动示教等。此外，还支持在 LeRobot 框架下进行数据采集和推理，在 RoboTwin 下进行仿真数据采集。最新开发 Demo 已覆盖视觉伺服、GraspNet 抓取位姿估计、视觉跟踪色块等方向，更多运行脚本请参考 SDK 文档。
 
 ## ✨ 项目起源与初心
 
@@ -84,6 +84,7 @@ Panthera-HT 是一款开源六轴机械臂，使用高擎机电的行星关节�
 | 抓取能力   | GraspNet 抓取位姿估计 Demo             |
 | 机器人学习 | LeRobot 数据采集与推理                 |
 | ROS2 生态  | 驱动、控制与仿真支持                   |
+| RoboTwin2.0 生态  | Panthera单双臂仿真采集                   |
 
 ## 🎯 适合的应用场景
 
@@ -94,6 +95,7 @@ Panthera-HT 是一款开源六轴机械臂，使用高擎机电的行星关节�
 - **视觉抓取算法验证**：用于视觉伺服、GraspNet 抓取位姿估计、色块跟踪、点云处理等实验。
 - **具身智能数据采集**：结合主从遥操、拖动示教和 LeRobot，采集模仿学习数据。
 - **ROS2 控制与仿真教学**：用于驱动开发、控制链路、仿真环境和系统集成训练。
+- **RoboTwin2.0仿真采集**：用Panthera在随机化场景进行单双臂的任务采集获取丰富的仿真数据。
 
 ## 🗃️ 其他仓库
 
@@ -182,6 +184,7 @@ cd Panthera-HT_SDK
 **遥操与数据采集**：
 - 主从遥操打乒乓球：https://www.bilibili.com/video/BV1KprhBPE26/
 - 移植LeRobot数据集进行模仿学习：https://www.bilibili.com/video/BV1GLi1BqETz/
+- RoboTwin仿真数据采集：https://www.bilibili.com/video/BV1zY8X6xEmD/
 
 **交流群**：
 - QQ群：Panthera-HT交流群（1035440629）
@@ -237,6 +240,9 @@ SDK仓库：https://github.com/HighTorque-Robotics/Panthera-HT_S_SDK
 <a href="https://github.com/tankail">
   <img src="https://github.com/tankail.png" width="60px;" style="border-radius: 50%;" alt=""/>
 </a>
+<a href="https://github.com/CherrySama">
+  <img src="https://github.com/CherrySama.png" width="60px;" style="border-radius: 50%;" alt=""/>
+</a>
 
 <!-- ## ⭐ Star History
 <a href="https://www.star-history.com/?repos=HighTorque-Robotics%2FPanthera-HT_Main&type=date&legend=top-left">
@@ -270,7 +276,7 @@ An open-source six-axis robotic arm platform for students, makers, education and
 
 Panthera-HT is an open-source six-axis robotic arm that uses HighTorque planetary joint modules. It provides developers with a reusable unified control interface, serving as a standardized hardware and software experimental platform for algorithm verification, course experiments, system integration, embodied AI data collection, and secondary development.
 
-The current control methods include C++, Python, and ROS2, with features including position/velocity/torque control, impedance control, gravity compensation mode, gravity-friction compensation mode, master-slave teleoperation, drag teaching, and more. It also supports data collection and inference under the LeRobot framework. Recent development demos include visual servoing, GraspNet grasp pose estimation, and color-block visual tracking. For more operation scripts, please refer to the SDK documentation.
+The current control methods include C++, Python, and ROS2, with features including position/velocity/torque control, impedance control, gravity compensation mode, gravity-friction compensation mode, master-slave teleoperation, drag teaching, and more. It also supports data collection and inference under the LeRobot framework, simulation data collection  by using RoboTwin. Recent development demos include visual servoing, GraspNet grasp pose estimation, and color-block visual tracking. For more operation scripts, please refer to the SDK documentation.
 
 ## ✨ Project Origin and Mission
 
@@ -338,6 +344,7 @@ Later, the original project author and HighTorque hit it off, and with HighTorqu
 | Grasping             | GraspNet grasp pose estimation demo                    |
 | Robot Learning       | LeRobot data collection and inference                  |
 | ROS2 Ecosystem       | Drivers, control, and simulation support               |
+| RoboTwin2.0 Ecosystem       | Panthera Single/Dual Arm Simulation Data Acquisition               |
 
 ## 🎯 Use Cases
 
@@ -348,6 +355,7 @@ Later, the original project author and HighTorque hit it off, and with HighTorqu
 - **Vision-based grasping research**: Visual servoing, GraspNet grasp pose estimation, color tracking, and point-cloud experiments.
 - **Embodied AI data collection**: Collect imitation learning data with teleoperation, drag teaching, and LeRobot.
 - **ROS2 control and simulation training**: Driver development, control pipelines, simulation, and system integration.
+- **RoboTwin 2.0 Simulation Data Acquisition**: Using Panthera to perform single and dual-arm task acquisition in randomized scenarios to obtain rich simulation data.
 
 ## 🗃️ Other Repositories
 
@@ -359,6 +367,7 @@ Later, the original project author and HighTorque hit it off, and with HighTorqu
 | **[Panthera-HT_lerobot](https://github.com/HighTorque-Robotics/Panthera-HT_lerobot)**           | [MIT](LICENSE) | LeRobot integration package, supporting imitation learning and robot learning algorithms.                                                  |
 | **[Panthera-HT_Extensions](https://github.com/HighTorque-Robotics/Panthera_HT_SDK_Extensions)** | [MIT](LICENSE) | A repository of development cases, including the implementation of processes such as D405 camera hand-eye calibration and visual servoing. |
 | **[Panthera-HT_Model](https://github.com/HighTorque-Robotics/Panthera-HT_Model)**               | [MIT](LICENSE) | SolidWorks original design files, sheet metal unfolding diagrams, 3D printing files, and Bill of Materials (BOM).                          |
+| **[Panthera-HT_RoboTwin](https://github.com/HighTorque-Robotics/Panthera-HT_RoboTwin)**               | [MIT](LICENSE) | RoboTwin 2.0 compatibility supports Panthera simulation for single and dual-arm data acquisition.                          |
 
 ## 🚀 Quick Start
 
@@ -435,6 +444,7 @@ Welcome to submit Issues and Pull Requests!
 **Teleoperation and Data Collection**:
 - Master-slave teleoperation playing table tennis: https://www.bilibili.com/video/BV1KprhBPE26/
 - Porting LeRobot dataset for imitation learning: https://www.bilibili.com/video/BV1GLi1BqETz/
+- Sim data collection by using RoboTwin: https://www.bilibili.com/video/BV1zY8X6xEmD/
 
 **Community**:
 - QQ Group: Panthera-HT Community (1035440629)
@@ -487,6 +497,9 @@ We will continue improving the current capabilities and expanding more demos for
 </a>
 <a href="https://github.com/tankail">
   <img src="https://github.com/tankail.png" width="60px;" style="border-radius: 50%;" alt=""/>
+</a>
+<a href="https://github.com/CherrySama">
+  <img src="https://github.com/CherrySama.png" width="60px;" style="border-radius: 50%;" alt=""/>
 </a>
 
 <!-- ## ⭐ Star History
