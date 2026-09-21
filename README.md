@@ -53,7 +53,7 @@
   <tr>
     <td align="center" width="360" bgcolor="#FFF8F0">
       <a href="https://www.hightorque.cn/product#term-42-list" target="_blank" rel="noopener noreferrer" title="进入 Panthera-HT 官方商城">
-        <big><strong>🛒 点击购买 Panthera-HT</strong></big>
+        <big><strong>🛒 购买 Panthera-HT</strong></big>
       </a>
     </td>
   </tr>
