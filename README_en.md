@@ -1,7 +1,7 @@
 # 🐆 Panthera-HT Open-Source Six-Axis Robotic Arm
 
 <p align="center">
-  <img src="./images/head.png" alt="Panthera-HT Banner">
+  <img src="./images/cover.png" alt="Panthera-HT Banner">
 </p>
 
 <p align="center">

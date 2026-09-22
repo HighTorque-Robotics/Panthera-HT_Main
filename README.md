@@ -1,7 +1,7 @@
 # 🐆 Panthera-HT 开源六轴机械臂
 
 <p align="center">
-  <img src="./images/首页.jpg" alt="Panthera-HT Banner">
+  <img src="./images/封面.png" alt="Panthera-HT Banner">
 </p>
 
 <p align="center">
