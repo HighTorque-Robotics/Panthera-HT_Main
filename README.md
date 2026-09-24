@@ -47,6 +47,9 @@
   <a href="https://alidocs.dingtalk.com/i/nodes/ydxXB52LJq19j0OkUMNm3GO4JqjMp697">
     <img src="https://img.shields.io/badge/Documentation-Database-4285F4" alt="Panthera-HT Documentation Database">
   </a>
+  <a href="images/参数_v3.jpg">
+    <img src="https://img.shields.io/badge/Parameter-Table-2E8B57" alt="Panthera-HT Parameter Table">
+  </a>
 </p>
 
 <table align="center" border="1" bordercolor="#F0B35A" cellpadding="18" cellspacing="0">
