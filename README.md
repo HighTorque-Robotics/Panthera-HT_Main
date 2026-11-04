@@ -21,12 +21,12 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.bilibili.com/video/BV1K9dbBNEdC/?spm_id_from=333.337.search-card.all.click">
+      <a href="https://www.bilibili.com/video/BV1Bc9aBnEKS/">
         <img src="https://cdn.simpleicons.org/bilibili/00A1D6" width="50" alt="Panthera-HT 哔哩哔哩发布视频">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.bilibili.com/video/BV1K9dbBNEdC/?spm_id_from=333.337.search-card.all.click">
+      <a href="https://www.bilibili.com/video/BV1Bc9aBnEKS/">
         Panthera-HT发布
       </a>
     </td>
